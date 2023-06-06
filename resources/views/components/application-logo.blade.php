@@ -1,0 +1,1 @@
+<img class="img-fluid "src="{{asset('frontend/assets/img/logo/logo_1.png')}}"   alt="logo">
