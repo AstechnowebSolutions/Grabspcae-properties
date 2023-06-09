@@ -1,7 +1,7 @@
 
 <!-- hero slider -->
 <div class="hero-section hero-slider owl-carousel owl-theme">
-    <div class="hero-single" style="background-image: url('frontend/assets/img/slider/slider-2.png')" alt ="no-image">
+    <div class="hero-single" style="background-image: url('frontend/assets/img/slider/slider5.webp')" alt ="no-image">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-7 col-lg-7">
@@ -22,7 +22,7 @@
             </div>
         </div>
     </div>
-    <div class="hero-single" style="background-image: url('frontend/assets/img/slider/slider-3.png')">
+    <div class="hero-single" style="background-image: url('frontend/assets/img/slider/slider3.webp')">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-7 col-lg-7">
@@ -43,7 +43,7 @@
             </div>
         </div>
     </div>
-    <div class="hero-single" style="background-image: url('frontend/assets/img/slider/slider-1.png')">
+    <div class="hero-single" style="background-image: url('frontend/assets/img/slider/slider1.webp')">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-7 col-lg-7">
