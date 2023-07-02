@@ -11,7 +11,7 @@
             <div class="col-lg-6">
                 <div class="about-left">
                     <div class="about-img">
-                    <video  width="600px" height="500px" src="{{asset('frontend/assets/video/about_grabspace.mp4')}}" controls></video>
+                        <img class="img-fluid" src="{{asset('frontend/assets/img/gallery/meeting place.png')}}" alt="">
                     </div>
                     <div class="about-experience">
                         <h1>2 <span>+</span></h1>
@@ -27,30 +27,47 @@
                     <div class="site-heading mb-3">
                         <span class="site-title-tagline">About Us</span>
                         <h2 class="site-title">
-                           Welcome to Grab-The leading <span>Coworking Space in Gwalior</span> for entrepreneurs and professionals.
+                         Welcome to Grab Space: Your Ideal Coworking Space in Gwalior
                         </h2>
                     </div>
-                    <p class="about-text">There are many variations of passages of Lorem Ipsum available,
-                        but the majority have suffered alteration in some form, by injected humour, or
-                        randomised words which don't look even.</p>
+                    <p class="about-text">Looking for a professional and inspiring workspace in Gwalior? Grab Space is the only place to go! We offer exceptional
+                        coworking spaces and office spaces that are tailored to the special requirements of entrepreneurs, freelancers, start-ups, and businesses
+                        of all kinds. With a prime location in Gwalior, Grab Space offers an energetic and collaborative workplace where you can work, interact,
+                        and develop. Here are some reasons why Grab Space is the best coworking office space in Gwalior:
+                    </p>
                     <div class="about-list-wrapper">
                         <ul class="about-list list-unstyled">
-                            <li>
+                             <li>
                                 <div class="icon"><span class="fas fa-check-circle"></span></div>
                                 <div class="text">
-                                    <p>Take a look at our round up of the best shows</p>
+                                    <p>
+                                       Our coworking space is centrally located in Gwalior, ensuring easy access to transportation.
+                                    </p>
                                 </div>
                             </li>
                             <li>
                                 <div class="icon"><span class="fas fa-check-circle"></span></div>
                                 <div class="text">
-                                    <p>It has survived not only five centuries</p>
+                                    <p>
+                                        We provide a variety of workspace options to meet your requirements, such as private cabins, dedicated workstations,
+                                        and hot desks.
+                                    </p>
                                 </div>
                             </li>
                             <li>
                                 <div class="icon"><span class="fas fa-check-circle"></span></div>
                                 <div class="text">
-                                    <p>Lorem Ipsum has been the ndustry standard dummy text</p>
+                                    <p> 
+                                      At Grab Space, we promote a friendly, collaborative atmosphere. 
+                                    </p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="icon"><span class="fas fa-check-circle"></span></div>
+                                <div class="text">
+                                    <p>
+                                       Our coworking space is equipped with all the essential amenities you need for a productive work environment. 
+                                    </p>
                                 </div>
                             </li>
                         </ul>
